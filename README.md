@@ -16,3 +16,13 @@ Here are some things that you should know about the page:
 - If you click on the logo in the upper right, the timers that control the quotes and featured student should be stopped.
 - I have provided all of the CSS you will need.
 - I have provided the start of the JavaScript you will need. There are comments in the code that will direct you on what you will need to do.
+
+## Grading Rubric
+
+| Item | Full Marks | Partial Marks | No Marks |
+|:--|:--|:--|:--|
+| Random quotes are displayed every 15 seconds | 25 | 13 | 0 |
+| The news entries are displayed and formatted | 25 | 13 | 0 |
+| The featured student is displayed and switching every 10 seconds | 25 | 13 | 0 |
+| Clicking on the logo stops the intervals | 15 | 8 | 0 |
+| The code in the window.onload is working correctly | 10 | 5 | 0 |
