@@ -1,4 +1,4 @@
-# CTEC 126 - Lab No. 7
+# CTEC 126 - Weekly Assignment No. 2
 
 ## Penguin Nation News
 
@@ -8,7 +8,7 @@ This assignment will have you complete the JavaScript that completes the Penguin
 
 Here are some things that you should know about the page:
 
-- Here is what the completed [page needs to look like](lab7-visual.png)
+- Here is what the completed [page needs to look like](visual.png)
 - The page uses Bootstrap and is responsive. Use it as a tool to learn a little bit about how Boostrap works.
 - Directly below the **News from the Penguin Nation** is where random quotes from the quotes array should be displayed. The quotes should be switched out every 15 seconds.
 - The page should display a neatly formatted list of the items from the news array in on the web page under the **News** section. See this image of the page for how the news stories should be displayed.
@@ -19,10 +19,10 @@ Here are some things that you should know about the page:
 
 ## Grading Rubric
 
-| Item | Full Marks | Partial Marks | No Marks |
-|:--|:--|:--|:--|
-| Random quotes are displayed every 15 seconds | 25 | 13 | 0 |
-| The news entries are displayed and formatted | 25 | 13 | 0 |
-| The featured student is displayed and switching every 10 seconds | 25 | 13 | 0 |
-| Clicking on the logo stops the intervals | 15 | 8 | 0 |
-| The code in the window.onload is working correctly | 10 | 5 | 0 |
+| Item                                                             | Full Marks | Partial Marks | No Marks |
+| :--------------------------------------------------------------- | :--------- | :------------ | :------- |
+| Random quotes are displayed every 15 seconds                     | 25         | 13            | 0        |
+| The news entries are displayed and formatted                     | 25         | 13            | 0        |
+| The featured student is displayed and switching every 10 seconds | 25         | 13            | 0        |
+| Clicking on the logo stops the intervals                         | 15         | 8             | 0        |
+| The code in the window.onload is working correctly               | 10         | 5             | 0        |
